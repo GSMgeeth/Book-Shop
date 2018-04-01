@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package GUI;
-//check push
+
 import bookshop.Batch;
 import bookshop.Category;
 import bookshop.Database;
