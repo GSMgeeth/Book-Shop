@@ -1,5 +1,5 @@
 package GUI;
-//push check
+
 import Others.Comman;
 import Others.DataValidater;
 import bookshop.Book;
